@@ -19,9 +19,6 @@
   "author": {
     "name": "A Strapi developer"
   },
-  "strapi": {
-    "uuid": "5dc371a2-d76f-4267-b846-15597aa77a31"
-  },
   "engines": {
     "node": ">=14.19.1 <=18.x.x",
     "npm": ">=6.0.0"
