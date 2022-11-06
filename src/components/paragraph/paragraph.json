@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_paragraph_paragraphs",
+  "info": {
+    "displayName": "paragraph",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "formattedPara": {
+      "type": "richtext"
+    }
+  }
+}

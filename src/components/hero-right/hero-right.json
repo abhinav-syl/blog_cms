@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_hero_right_hero_rights",
+  "info": {
+    "displayName": "hero-right",
+    "icon": "laptop-code"
+  },
+  "options": {},
+  "attributes": {
+    "contentPara": {
+      "type": "text"
+    },
+    "contentImage": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

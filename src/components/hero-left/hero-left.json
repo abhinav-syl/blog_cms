@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_hero_left_hero_lefts",
+  "info": {
+    "displayName": "hero-left",
+    "icon": "address-card",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "contentPara": {
+      "type": "text",
+      "required": false
+    },
+    "contentImage": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
